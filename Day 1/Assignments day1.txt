@@ -1,0 +1,24 @@
+Assignments
+1. Write a program to print “Welcome to CDAC” on the console.
+
+2. Write a program to calculate Net Salary of an employee. Accept Basic Salary (BS) from the user.  
+                HRA is 15% of BS
+                DA is 30% of BS    
+                PF is 12.5% of GS
+                Gross Salary is BS + HRA + DA    
+		Net Salary = Gross Salary – PF
+
+3. Write a program to display whether a user entered number is prime or not.
+
+4. Write a program to declare character array. Accept the string from the user. Display the string in the reverse
+   order without using any built-in function.
+
+4. Write a program to accept marks of five subjects from the user and calculate their sum and average. 
+   Display sum and average on the console.
+
+5. Write a program to swap two variables using a third variable. Write a separate swap function. Display the variables in main function and swap function.
+   a. Implement swap function as call by value
+   b. Implement swap function as call by address
+
+6. Define a structure “Book” having members – bookId, title, price.  Use typedef to name this structure “BOOK”. 
+   Accept the data for a book and display the record.

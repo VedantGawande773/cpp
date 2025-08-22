@@ -1,0 +1,21 @@
+1) Write a menu driven program to calculate area and circumference/perimeter 
+   of circle, square, triangle, rectangle and print both results in main.
+   Use const keyword for PI  (use pass by reference mechanism)
+2) Write a menu driven program to calculate sum of numbers for
+   int,float, or mix sequence i.e. use function overloading
+3) Write a program to calculate square, cube of number, max() to find maximum .
+   Use inline functions
+4) Write a program in C++ to accept number of subjects from user for 1 student
+   and accept marks of all subjects. Display sum and average.
+5) Create structure of Student having following attributes
+   1. Roll number
+   2. name of student
+   3. totalmarks of student.
+  Accpet and Display data of 5 student.
+  Display Student having maximum mark.
+6) Accpet array size from user, create array with dynamic memory allocation.Implement following functions
+  1. Accept array
+  2. Display array
+  3. find Max ,min;
+  4. search specific element in array.
+  5. Count even and odd numbers with one function and print values in main(use reference)
