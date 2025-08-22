@@ -1,0 +1,14 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore compiled binaries
+*.out
+*.obj
+
+# Ignore temporary/editor files
+*.log
+*.tmp
+*.swp
