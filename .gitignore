@@ -1,14 +1,34 @@
-# Ignore Windows executables
+# === Build output ===
 *.exe
-
-# Ignore object files
-*.o
-
-# Ignore compiled binaries
-*.out
 *.obj
-
-# Ignore temporary/editor files
+*.o
+*.out
+*.ilk
+*.pdb
+*.idb
 *.log
-*.tmp
-*.swp
+
+# === Visual Studio ===
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.suo
+*.user
+*.db
+*.opendb
+*.cache
+*.tlog/
+*.ipch
+*.db-shm
+*.db-wal
+
+# === Debug/Release folders ===
+x64/
+Debug/
+Release/
+*.sqlite
+
+# === OS files ===
+Thumbs.db
+.DS_Store
