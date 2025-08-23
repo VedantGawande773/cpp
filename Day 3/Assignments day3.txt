@@ -1,0 +1,25 @@
+1. Create class Date with data member date, month and year.
+   Add default, parameterised and copy constructor.
+   Write member functions ShowDate. ShowDate function will display date with "/" as a separator.
+
+2. Implement class Complex with real (int) and imaginary (int) parts as data members of class. 
+   Implement below functions in this class.
+   default constructor, parameterized constructor, getter functions for real and imaginary parts, 
+   setter functions for real and imaginary parts, display function.
+
+3. Write a program to design class Time with data members (hh,mm,ss). Maintain 24 hr clock.
+   Add following member functions:
+   a. Constructors
+   b. ShowTime function which displays time in the format of hh:mm:ss
+   c. Function which checks whether the time represents day time or night time.
+
+4. Create a class named Point to represent x and y cor-ordinates. The class should have data members for the x 
+   and y coordinates. Implement the following member functions
+   a. Constructors
+   b. ShowPoint to display co-ordinates in the format [x, y]
+   c. Function which should check the points falls in which particular quadrant 
+
+5. Create a class named Box to represent a three-dimensional box. The class should have data members for height, 
+   width, and depth. Implement the following member functions:
+   a. Constructors
+   b. CalculateVolume which calculates volume of the box.
